@@ -143,7 +143,6 @@ and developer communities
 <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=Rkx-01&show_icons=true&count_private=true&theme=calm_pink&border_radius=10" alt="github stats" /> -->
 <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=Rkx-01&theme=calm_pink&hide_border=false" alt="github stats" />
 
-<img width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkx-01&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 <img width="465" src="https://github-readme-activity-graph.vercel.app/graph?username=Rkx-01&theme=redical&bg_color=20232a&hide_border=true&border_radius=15&area=true&custom_title=💻%20Contribution%20Activity%20Graph" alt="activity graph"/>
 
 </div>
