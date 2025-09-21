@@ -6,28 +6,7 @@
 
 ### 🌟 Meet Rounak Kumar Saw
 
-Hey there! I'm **Rounak**, a passionate **Full Stack Developer** and **Innovation Enthusiast** who transforms ideas into digital reality! 🚀
-
-🎯 **What Drives Me:**
-- 🔥 **Passion:** Creating solutions that make a difference
-- 💡 **Innovation:** Always exploring cutting-edge technologies  
-- 🌱 **Growth:** Continuous learning and skill development
-- 🤝 **Collaboration:** Building amazing things with awesome people
-
-### 🎨 My Development Journey
-
-🚀 **Current Focus:** Building scalable web applications
-🌍 **Location:** India 🇮🇳  
-💻 **Specialties:** Full Stack Development, Open Source  
-⚡ **Superpower:** Turning coffee into code at lightning speed! ☕→💻  
-
-### 🎯 What I'm Up To
-
-- 🔭 **Working On:** Revolutionary projects like **SnW-1** and **Lost-And-Found**
-- 🌱 **Learning:** Advanced React patterns, Machine Learning, Cloud Architecture
-- 👯 **Seeking:** Exciting collaboration opportunities on innovative projects  
-- 💬 **Ask Me About:** Web Development, Problem Solving
-- 📫 **Reach Me:** Always open to connect and collaborate!
+Hey, I’m Rounak a Full Stack Developer fueled by creativity and innovation, bringing ideas to life through clean code and powerful digital experiences.
 
 ### 🏆 Quick Highlights
 
@@ -41,19 +20,12 @@ Hey there! I'm **Rounak**, a passionate **Full Stack Developer** and **Innovatio
 
 ### 🎨 Visual Summary
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding Animation"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2gzdDhkczJqcW55OHpubmhldzc4dG0zN3BvaG5rZTNqdnVsZXJtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Coding Animation"/>
 
 ### 📊 Developer Stats
 
 <img src="https://img.shields.io/badge/🎯%20Focus-Full%20Stack-brightgreen?style=for-the-badge&labelColor=000000" alt="Focus"/>
-<img src="https://img.shields.io/badge/🚀%20Projects-7+-blue?style=for-the-badge&labelColor=000000" alt="Projects"/>
-
-### 🌈 Fun Facts
-
-🎵 **Coding Soundtrack:** Lo-fi beats and synthwave  
-🎯 **Coding Style:** Clean, efficient, and well-documented  
-🌟 **Motivation:** "Code is poetry written in logic"  
-🎪 **Philosophy:** Make it work, make it right, make it fast  
+<img src="https://img.shields.io/badge/🚀%20Projects-7+-blue?style=for-the-badge&labelColor=000000" alt="Projects"/> 
 
 ### 🎨 Personality Traits
 
@@ -61,13 +33,6 @@ Hey there! I'm **Rounak**, a passionate **Full Stack Developer** and **Innovatio
 <img src="https://img.shields.io/badge/Analytical-🧠-blue?style=flat-square&labelColor=transparent" alt="Analytical"/>
 <img src="https://img.shields.io/badge/Collaborative-🤝-green?style=flat-square&labelColor=transparent" alt="Collaborative"/>
 <img src="https://img.shields.io/badge/Innovative-🚀-red?style=flat-square&labelColor=transparent" alt="Innovative"/>
-
-### 💫 Life Philosophy
-
-*"Innovation distinguishes between  
-a leader and a follower"*
-
-**- Steve Jobs**
 
 </div>
 
@@ -77,47 +42,6 @@ a leader and a follower"*
 
 ---
 
-### 🎪 More About My World
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🌐 Web Craftsman  
-Creating beautiful, functional  
-web applications
-
-</td>
-<td align="center" width="25%">
-
-### 🔧 Problem Solver
-Love tackling complex challenges  
-with elegant solutions
-
-</td>
-<td align="center" width="25%">
-
-### 🤝 Community Builder
-Active contributor to open source  
-and developer communities
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🌟 My Development Approach
-
-🎯 **User-Centric Design** - Every line of code serves the user experience  
-⚡ **Performance First** - Speed and efficiency are non-negotiable  
-🛡️ **Security Minded** - Building with safety and reliability in mind  
-📈 **Scalable Solutions** - Architecting for growth and adaptability  
-🎨 **Clean Code** - Readable, maintainable, and elegant implementations  
-
-*Ready to build something amazing together? Let's connect and create digital magic! ✨*
 
 ## 🛠️ Tech Arsenal - My Colorful Toolkit
 
@@ -127,7 +51,7 @@ and developer communities
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark" alt="Frontend Skills"/>
 
 ### ⚡ Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mongodb,mysql&theme=dark" alt="Backend Skills"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql&theme=dark" alt="Backend Skills"/>
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,linux,vscode&theme=dark" alt="DevOps Skills"/>
@@ -174,17 +98,6 @@ and developer communities
 <a href="https://www.instagram.com/rkx_.01">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000&color=E4405F" alt="Instagram"/>
 </a>
-
-</div>
-
----
-
-
-## 💭 Daily Inspiration
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote"/>
 
 </div>
 
